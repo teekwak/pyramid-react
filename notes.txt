@@ -1,0 +1,6 @@
+things I learned:
+
+1. you need babel-core for babel to work
+2. babel needs react preset, or else it cannot parse index.js
+3. pyramid static asssets can use a relative path
+
